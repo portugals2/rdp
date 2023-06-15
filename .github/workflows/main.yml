@@ -1,4 +1,4 @@
-name: Windows_Server_From_Dollars_Hoyamu
+name: RDP
 
 
 on: [push, workflow_dispatch]
